@@ -1,3 +1,4 @@
+import { IUtente } from './Utente';
 interface IMezzo {
   tipo: string; // "bici", "scooter", "monopattino"
   idUnico: number;
